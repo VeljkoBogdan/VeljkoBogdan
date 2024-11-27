@@ -1,12 +1,11 @@
 <h3 align="left">Noob programer iz Bosne i Hercegovine / Srbije</h3>
 <hr>
 
-- Moj hobi/javni GitHub profil: [IlluminatiJoe](https://github.com/IlluminatiJoe0)
+Hobi GitHub profil: [IlluminatiJoe](https://github.com/IlluminatiJoe0)
 
-- Kontakt: **vtsveljkobogdan@gmail.com**
+Kontakt: **vtsveljkobogdan@gmail.com**
 
 <br>
-<h3 align="left">Moji ostali profili:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/veljko-bogdan-2b4938295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veljko bogdan" height="30" width="40" /></a>
 <a href="https://fb.com/veljko.bogdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="veljko.bogdan" height="30" width="40" /></a>
