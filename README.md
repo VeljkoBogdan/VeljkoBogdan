@@ -1,16 +1,12 @@
-<h3 align="left">Noob programer iz Bosne i Hercegovine / Srbije</h3>
+<h4 align="left">Programer iz Bosne i Hercegovine / Srbije</h3>
 <hr>
 
 Hobi GitHub profil: [IlluminatiJoe](https://github.com/IlluminatiJoe0)
 
 Kontakt: **vtsveljkobogdan@gmail.com**
-
-<br>
-<p align="left">
 <a href="https://linkedin.com/in/veljko-bogdan-2b4938295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veljko bogdan" height="30" width="40" /></a>
 <a href="https://fb.com/veljko.bogdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="veljko.bogdan" height="30" width="40" /></a>
 <a href="https://instagram.com/_v.bogdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_v.bogdan" height="30" width="40" /></a>
-</p>
 <br>
 
 <h3 align="left">Jezici i alatke:</h3>
