@@ -1,4 +1,4 @@
-<h4 align="left">Programer iz Bosne i Hercegovine / Srbije</h3>
+<h3 align="left">Programer iz Bosne i Hercegovine / Srbije</h3>
 <hr>
 
 Hobi GitHub profil: [IlluminatiJoe](https://github.com/IlluminatiJoe0)
