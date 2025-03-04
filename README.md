@@ -1,6 +1,6 @@
-<h2> Hello 👋, I am Veljko Bogdan, aka <a href="https://github.com/IlluminatiJoe0"> IlluminatiJoe </a> </h2><hr>
+<h1> Hello 👋, I am Veljko Bogdan, aka <a href="https://github.com/IlluminatiJoe0"> IlluminatiJoe </a> </h1>
 
-<h3> I am a student at Subotica Tech College of Applied Sciences </h3> <hr>
+<h2> I am a student at Subotica Tech College of Applied Sciences </h2>
 
 <ul>
 <li> I'm currently working on an Android app: <a href="https://github.com/VeljkoBogdan/QuizzardApp">QuizzardApp</a> </li>
@@ -10,7 +10,7 @@
 <li> In my free time I like to play games, play the guitar, or learn whatever I find interesting</li>
 </ul>
 
-<h3> Contact </h3><hr>
+<h2> Contact </h2>
 
 Email: **vtsveljkobogdan@gmail.com**
 
@@ -22,7 +22,7 @@ Email: **vtsveljkobogdan@gmail.com**
 <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_v.bogdan"/></a>
 <br>
 
-<h3> Technologies </h3> <hr>
+<h2> Technologies </h2>
 
 Languages: <br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
