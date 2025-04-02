@@ -3,7 +3,7 @@
 <h2> I am a student at Subotica Tech College of Applied Sciences </h2>
 
 <ul>
-<li> I'm currently working on an Android app: <a href="https://github.com/VeljkoBogdan/QuizzardApp">QuizzardApp</a> </li>
+<li> I'm currently working on an Android app: <a href="https://github.com/VeljkoBogdan/QuizzardApp">QuizzardApp</a>, and a Minecraft modpack: <a href="https://github.com/VeljkoBogdan/ReFactory">ReFactory: Expert</a> </li>
 <li> I'm currently learning Spring Boot, React and Game Development </li>
 <li> What I am striving for now: <b> Become a full stack developer </b> </li>
 <li> Future goals: Learn as many technologies as possible :) </li>
