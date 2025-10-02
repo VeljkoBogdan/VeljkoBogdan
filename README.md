@@ -2,7 +2,7 @@
 
 <h2> Contact </h2>
 
-Email: **vtsveljkobogdan@gmail.com**
+Email: **veljkobogdan.vb@gmail.com**
 
 <a href="https://linkedin.com/in/veljko-bogdan-2b4938295" target="blank">
 <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="veljko bogdan"/></a>
