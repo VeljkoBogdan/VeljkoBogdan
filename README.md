@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Programmer with a Bachelors in Informatics and System Engineering.<br><br>I love to code and have coded games (almost all are unfinished), tools, mods and modpacks (mainly for Minecraft) and site backends. I also love to make music (even though I am still learning) and pixel-art. I also play the guitar. <br><br>I mostly use C++ and Java, but know a lot of PHP, JavaScript and C#.</p>
+<p align="left">Programmer with a Bachelors in Informatics and System Engineering.<br><br>I love to code and have coded games (almost all are unfinished), tools, mods and modpacks (mainly for Minecraft) and site backends. I also love to make music (even though I am still learning) and pixel-art. I also play the guitar. <br><br>I mostly use PHP and Java, but know a bit of C++ and JavaScript.</p>
 
 ###
 
