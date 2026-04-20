@@ -13,10 +13,6 @@
 
 ###
 
-<img align="right" height="134" src="https://media.tenor.com/lkJ8KBZckhcAAAAM/gregtech-jumpscare.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
